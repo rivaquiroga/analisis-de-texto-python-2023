@@ -1,1 +1,40 @@
-# analisis-de-textos-python-2023
+# Análisis de texto con Python
+
+En este módulo del [Diplomado en Ciencia de Datos UC](https://datascience.uc.cl/) nos aproximaremos al análisis de textos usando Python. Abordaremos algunas técnicas que se enmarcan en lo que usualmente se denomina _Minería de texto_ y otras propias del _Procesamiento del Lenguaje Natural_. 
+
+## Preparación PRONTO!
+
+Para realizar las actividades planificadas necesitarás las librerías ... 
+
+```
+pip install 
+```
+
+Si prefieres trabajar en Google Colab, no olvides agregar un signo de exclamación al inicio de cada línea para su instalación, es decir:
+
+```
+!pip install 
+```
+Esto le indica a Google Colab que ese no es código de Python, sino código que tiene que ejecutarse en la terminal.
+
+Si trabajas en Visual Studio Code, es necesario que crees un entorno virtual. Durante la primera sesión mostraremos cómo hacerlo. También puedes revisar [las indicaciones en este documento](https://github.com/rivaquiroga/taller-web-scraping-python-2023/blob/main/crear-entorno-virtual.md).
+
+
+## Actividades
+
+Durante tres dos sesiones del módulo realizaremos una serie de actividades para poner en práctica lo aprendido. Iremos escribiendo el código "en vivo" en la clase, por lo que el contenido de los archivos con código se irá actualizando a medida que escribamos en ellos. 
+
+### Ejercicio 1: el mágico mundo de las expresiones regulares
+
+:card_file_box: [Datos]()
+:page_facing_up: [Código escrito en clases]()
+
+
+## Recursos adicionales
+
+### Documentación librerías utilizadas
+
+### Sobre expresiones regulares
+
+- [regex101](https://regex101.com/): un sitio web para probar nuestras expresiones regulares
+- [Hoja de referencia de la sintaxis de expresiones regulares](https://developer.mozilla.org/es/docs/Web/JavaScript/Guide/Regular_expressions/Cheatsheet)
