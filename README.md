@@ -37,6 +37,8 @@ Durante las tres sesiones del módulo realizaremos una serie de actividades para
 
 ### Documentación librerías utilizadas
 
+- [re](https://docs.python.org/es/3/library/re.html): la documentación está parcialmente traducida al español.
+
 ### Sobre expresiones regulares
 
 - [regex101](https://regex101.com/): un sitio web para probar nuestras expresiones regulares
