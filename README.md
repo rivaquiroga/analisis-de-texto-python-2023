@@ -19,6 +19,9 @@ Esto le indica a Google Colab que ese no es código de Python, sino código que 
 
 Si trabajas en Visual Studio Code, es necesario que crees un entorno virtual. Durante la primera sesión mostraremos cómo hacerlo. También puedes revisar [las indicaciones en este documento](https://github.com/rivaquiroga/taller-web-scraping-python-2023/blob/main/crear-entorno-virtual.md).
 
+## Algunas preguntas previas
+
+En algún momento de la clase les pediré que respondan las preguntas que están [en esta mini encuesta](https://www.menti.com/alayvvpcjvwk).
 
 ## Actividades
 
@@ -26,11 +29,14 @@ Durante las tres sesiones del módulo realizaremos una serie de actividades para
 
 ### Ejercicio 1: el mágico mundo de las expresiones regulares
 
-:abcd: [Texto de ejemplo]()
-
-:card_file_box: [Datos]()
-
 :page_facing_up: [Código escrito en clases]()
+
+:card_file_box: [Datos registro nombres]()
+
+:card_file_box: [Datos matemáticas]()
+
+:card_file_box: [Datos lenguaje]()
+
 
 
 ## Recursos adicionales
