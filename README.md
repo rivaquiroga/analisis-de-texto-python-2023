@@ -2,18 +2,18 @@
 
 En este módulo del [Diplomado en Ciencia de Datos UC](https://datascience.uc.cl/) nos aproximaremos al análisis de textos usando Python. Abordaremos algunas técnicas que se enmarcan en lo que usualmente se denomina _Minería de texto_ y otras propias del _Procesamiento del Lenguaje Natural_. 
 
-## Preparación PRONTO!
+## Preparación
 
-Para realizar las actividades planificadas necesitarás las librerías ... 
+Para realizar las actividades planificadas para la primera sesión necesitarás las siguientes librerías: 
 
 ```
-pip install 
+pip install pandas
 ```
 
 Si prefieres trabajar en Google Colab, no olvides agregar un signo de exclamación al inicio de cada línea para su instalación, es decir:
 
 ```
-!pip install 
+!pip install pandas
 ```
 Esto le indica a Google Colab que ese no es código de Python, sino código que tiene que ejecutarse en la terminal.
 
@@ -25,6 +25,8 @@ Si trabajas en Visual Studio Code, es necesario que crees un entorno virtual. Du
 Durante las tres sesiones del módulo realizaremos una serie de actividades para poner en práctica lo aprendido. Iremos escribiendo el código "en vivo" en la clase, por lo que el contenido de los archivos con código se irá actualizando a medida que escribamos en ellos. 
 
 ### Ejercicio 1: el mágico mundo de las expresiones regulares
+
+:abcd: [Texto de ejemplo]()
 
 :card_file_box: [Datos]()
 
