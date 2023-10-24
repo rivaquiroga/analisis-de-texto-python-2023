@@ -22,11 +22,12 @@ Si trabajas en Visual Studio Code, es necesario que crees un entorno virtual. Du
 
 ## Actividades
 
-Durante tres dos sesiones del módulo realizaremos una serie de actividades para poner en práctica lo aprendido. Iremos escribiendo el código "en vivo" en la clase, por lo que el contenido de los archivos con código se irá actualizando a medida que escribamos en ellos. 
+Durante las tres sesiones del módulo realizaremos una serie de actividades para poner en práctica lo aprendido. Iremos escribiendo el código "en vivo" en la clase, por lo que el contenido de los archivos con código se irá actualizando a medida que escribamos en ellos. 
 
 ### Ejercicio 1: el mágico mundo de las expresiones regulares
 
 :card_file_box: [Datos]()
+
 :page_facing_up: [Código escrito en clases]()
 
 
