@@ -29,13 +29,13 @@ Durante las tres sesiones del módulo realizaremos una serie de actividades para
 
 ### Ejercicio 1: el mágico mundo de las expresiones regulares
 
-:page_facing_up: [Código escrito en clases]()
+:page_facing_up: [Código escrito en clases](https://www.dropbox.com/scl/fi/gpyxmbkbm4lgmqyyqjmze/01_regex.py?rlkey=xn891w8808p3pztibi1dqz2ci&dl=0)
 
-:card_file_box: [Datos registro nombres]()
+:card_file_box: [Datos registro nombres](https://www.dropbox.com/scl/fi/umg8lnwj89zsncgv0sdos/nombres.csv?rlkey=f8e5oy4o54hk4f5v3y1lkzncn&dl=0)
 
-:card_file_box: [Datos matemáticas]()
+:card_file_box: [Datos matemáticas](https://www.dropbox.com/scl/fi/0r0m3ttp5cagybvk5quhu/matematicas.csv?rlkey=5xddjevkgl0zd2dc7pzxpbweo&dl=0)
 
-:card_file_box: [Datos lenguaje]()
+:card_file_box: [Datos lenguaje](https://www.dropbox.com/scl/fi/zoh7n0mfhh51539rtmpl6/lenguaje.csv?rlkey=ah9tekr76iwiymm11vo5kdknm&dl=0)
 
 
 
