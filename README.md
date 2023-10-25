@@ -4,6 +4,8 @@ En este módulo del [Diplomado en Ciencia de Datos UC](https://datascience.uc.cl
 
 ## Preparación
 
+### Primera sesión
+
 Para realizar las actividades planificadas para la primera sesión necesitarás las siguientes librerías: 
 
 ```
@@ -19,7 +21,13 @@ Esto le indica a Google Colab que ese no es código de Python, sino código que 
 
 Si trabajas en Visual Studio Code, es necesario que crees un entorno virtual. Durante la primera sesión mostraremos cómo hacerlo. También puedes revisar [las indicaciones en este documento](https://github.com/rivaquiroga/taller-web-scraping-python-2023/blob/main/crear-entorno-virtual.md).
 
-## Actividades
+### Segunda sesión
+
+
+
+### Tercera sesión
+
+## Actividades sección presencial
 
 Durante las tres sesiones del módulo realizaremos una serie de actividades para poner en práctica lo aprendido. Iremos escribiendo el código "en vivo" en la clase, por lo que el contenido de los archivos con código se irá actualizando a medida que escribamos en ellos. 
 
