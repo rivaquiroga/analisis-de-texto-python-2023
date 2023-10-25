@@ -41,7 +41,9 @@ Durante las tres sesiones del módulo realizaremos una serie de actividades para
 
 :card_file_box: [Datos lenguaje](https://www.dropbox.com/scl/fi/zoh7n0mfhh51539rtmpl6/lenguaje.csv?rlkey=ah9tekr76iwiymm11vo5kdknm&dl=0)
 
+### Ejercicio 2: extracción de textos de PDFs
 
+### Ejercicio 3: "speech-to-text"
 
 ## Recursos adicionales
 
