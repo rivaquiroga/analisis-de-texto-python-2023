@@ -107,6 +107,7 @@ Hay dos aproximaciones para resolver el problema:
  
 :page_facing_up: [Código escrito en clases]()
 
+🗣️ [Primer ejemplo](https://www.dropbox.com/scl/fi/1qxof69pzi2pkj5vez030/cuenta-publica-2023.txt?rlkey=9wxuka5pl8lbhqpzw3ksd115i&dl=0)
 
 ## Recursos adicionales
 
