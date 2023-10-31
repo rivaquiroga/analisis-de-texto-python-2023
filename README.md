@@ -90,7 +90,7 @@ Hay dos aproximaciones para resolver el problema:
 
 ### Ejercicio 2: extracción de texto de archivos en formato PDF
 
-:page_facing_up: [Código escrito en clases]()
+:page_facing_up: [Código escrito en clases](https://www.dropbox.com/scl/fi/bo3u2vnodz6kw8dzxvhon/02_extraccion-pdfs.py?rlkey=ticylxleqea09iuz9c8yunmdy&dl=0)
 
 📖 [PDF escaneado](https://www.dropbox.com/scl/fi/yy9894lex6zf6sbyyj2yv/amanda_labarca.pdf?rlkey=03xplf67hh9gh5ffjfizs3h7m&dl=0)
 
@@ -99,7 +99,7 @@ Hay dos aproximaciones para resolver el problema:
 
 ### Ejercicio 3: "speech-to-text"
 
-:page_facing_up: [Código escrito en clases]()
+:page_facing_up: [Código escrito en clases](https://www.dropbox.com/scl/fi/h3un6986hzyxhhk69asfv/03_speech-to-text.py?rlkey=s12h4ysfakpgo8rierc7g8w6d&dl=0)
 
 🎤 [Audio de prueba](https://www.dropbox.com/scl/fi/7so2upmvlyt6vp0xurhp5/audio-de-prueba.m4a?rlkey=3eznie2kjr7tf0xncp6ty900n&dl=0)
 
