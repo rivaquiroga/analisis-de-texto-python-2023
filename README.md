@@ -37,6 +37,12 @@ Esa línea de código instalará el modelo para español (y el para inglés, que
 !tesseract --list-langs
 ```
 
+También es necesario instalar Poppler:
+
+```
+!apt-get install poppler-utils
+```
+
 Las otras librerías que utilizaremos en esta parte de la sesión son las siguientes:
 
 ```
