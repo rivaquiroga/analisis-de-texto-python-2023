@@ -105,7 +105,7 @@ Hay dos aproximaciones para resolver el problema:
 
 ### Ejercicio 4: Preprocesamiento de texto
  
-:page_facing_up: [Código escrito en clases]()
+:page_facing_up: [Código escrito en clases](https://www.dropbox.com/scl/fi/h71zwf0a67ozkn05buxef/04_preprocesamiento.py?rlkey=dv7ohlzatixyirh1dj23m4bkg&dl=0)
 
 🗣️ [Primer ejemplo](https://www.dropbox.com/scl/fi/1qxof69pzi2pkj5vez030/cuenta-publica-2023.txt?rlkey=9wxuka5pl8lbhqpzw3ksd115i&dl=0)
 
