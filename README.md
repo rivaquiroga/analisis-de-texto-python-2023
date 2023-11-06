@@ -1,6 +1,6 @@
 # Análisis de texto con Python
 
-En este módulo del [Diplomado en Ciencia de Datos UC](https://datascience.uc.cl/) nos aproximaremos al análisis de textos usando Python. Abordaremos algunas técnicas que se enmarcan en lo que usualmente se denomina _Minería de texto_ y otras propias del _Procesamiento del Lenguaje Natural_. 
+En este módulo del [Diplomado en Ciencia de Datos UC](https://datascience.uc.cl/) nos aproximaremos al análisis de textos usando Python. Abordaremos algunas técnicas que se enmarcan en lo que usualmente se denomina _Minería de texto_ y otras propias del _Procesamiento del Lenguaje Natural_. Existe una sección paralela en la que abordamos los mismo contenidos, [pero usando R](https://github.com/rivaquiroga/analisis-de-textos-r-2023).
 
 ## Preparación
 
