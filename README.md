@@ -59,7 +59,7 @@ Para convertir un audio a texto, necesitarás instalar lo siguiente:
 !sudo apt update && sudo apt install ffmpeg
 ```
 
-Hacia el final de la clase, nos enfocaremos en el preprocesamiento de texto. Para esa parte de la sesión será necesario tener instalado lo siguiente:
+Hacia el final de la clase, discutiremos algunas nociones vinculadas al preprocesamiento de textos. Para esa parte de la sesión será necesario tener instalado lo siguiente:
 
 ```
 !pip install nltk
@@ -79,9 +79,10 @@ Para las actividades de la tercera sesión necesitarás tener instalada la libre
 
 Durante las tres sesiones del módulo realizaremos una serie de actividades para poner en práctica lo aprendido. Iremos escribiendo el **código "en vivo"** en la clase, por lo que el contenido de los archivos con código se irá actualizando a medida que escribamos en ellos. Si bien las actividades de la sección presencial y online son las mismas, es posible que avancemos a un ritmo distinto o que el código difiera un poco producto de cómo se da la discusión en clases. 
 
+🖥️ [materiales sección en línea](https://github.com/rivaquiroga/analisis-de-texto-python-2023/blob/main/actividades-en-linea.md)
+
 :office: [materiales sección presencial](https://github.com/rivaquiroga/analisis-de-texto-python-2023/blob/main/actividades-presencial.md)
 
-🖥️ [materiales sección en línea](https://github.com/rivaquiroga/analisis-de-texto-python-2023/blob/main/actividades-en-linea.md)
 
 
 ## Recursos adicionales
