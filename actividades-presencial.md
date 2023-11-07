@@ -36,9 +36,14 @@ Hay dos aproximaciones para resolver el problema:
 
 🎤 [Audio de prueba](https://www.dropbox.com/scl/fi/7so2upmvlyt6vp0xurhp5/audio-de-prueba.m4a?rlkey=3eznie2kjr7tf0xncp6ty900n&dl=0)
 
-### Ejercicio 4: Preprocesamiento de texto
+### Ejercicio 4: Discutir algunas cosas sobre preprocesamiento de texto
  
 :page_facing_up: [Código escrito en clases](https://www.dropbox.com/scl/fi/h71zwf0a67ozkn05buxef/04_preprocesamiento.py?rlkey=dv7ohlzatixyirh1dj23m4bkg&dl=0)
 
-🗣️ [Primer ejemplo](https://www.dropbox.com/scl/fi/1qxof69pzi2pkj5vez030/cuenta-publica-2023.txt?rlkey=9wxuka5pl8lbhqpzw3ksd115i&dl=0)
+### Ejercicio 5: Implementación de algunos análisis
+
+:page_facing_up: [Código escrito en clases](https://www.dropbox.com/scl/fi/xv0gyiudtknntqk8t4azl/05_analisis-varios.py?rlkey=7wjwafpprk4lu1h8p0n4uc9ko&dl=0)
+
+:card_file_box: [Los datos](https://www.dropbox.com/scl/fi/4nstmrmyebtq508gwl09h/mil_noticias_2022.csv?rlkey=s8o7gea4fnphoz6p62z2wzieq&dl=0)
+
 🔡 [Una lista de stopwords](https://raw.githubusercontent.com/7PartidasDigital/AnaText/master/datos/diccionarios/vacias.txt)
