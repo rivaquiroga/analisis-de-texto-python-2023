@@ -67,12 +67,13 @@ Hacia el final de la clase, discutiremos algunas nociones vinculadas al preproce
 
 ### Tercera sesión
 
-Para las actividades de la tercera sesión necesitarás tener instalada la librería spaCy y descargado el modelo para español.
+Para las actividades de la tercera sesión necesitarás tener instalada la librería spaCy y descargado el modelo para español. También utilizaremos algunas funciones de scikit-learn.
 
 ```
 !pip install -U pip setuptools wheel
 !pip install -U spacy
 !python -m spacy download es_core_news_sm
+!pip install -U scikit-learn
 ```
 
 ## Actividades 
@@ -90,7 +91,9 @@ Durante las tres sesiones del módulo realizaremos una serie de actividades para
 ### Documentación librerías utilizadas
 
 - [re](https://docs.python.org/es/3/library/re.html): la documentación está parcialmente traducida al español.
-
+- [nltk](https://www.nltk.org/book/)
+- [spacy](https://spacy.io/)
+- [scikit-learn](https://scikit-learn.org/stable/index.html)
 ### Sobre expresiones regulares
 
 - [regex101](https://regex101.com/): un sitio web para probar nuestras expresiones regulares
@@ -101,4 +104,9 @@ Durante las tres sesiones del módulo realizaremos una serie de actividades para
 Si trabajas en tu computador, puedes revisar la forma de instalación que corresponda a tu sistema operativo [en la documentación de tesseract](https://tesseract-ocr.github.io/tessdoc/Installation.html). 
 
 **Personas que usan Windows**: pueden revisar [estas indicaciones en español para instalar tanto tesseract como Poppler](https://ucd-dnp.github.io/ConTexto/versiones/master/instalacion/instalacion_popple_teseract_windows.html), una herramienta para renderear PDF que es necesario tener instalada también. Ojo que Poppler requiere tener permisos de administración del dispositivo para su instalación, por lo que si estás trabajando en el computador de tu institución puede que no sea posible instalarlo directamente. 
+
+### Sobre Topic Modelling
+
+- [Un artículo](http://www.cs.columbia.edu/~blei/papers/Blei2012.pdf) que sirve para entender los algoritmos que hacen modelación de tópicos.
+- Otra librería que vale la pena explorar: [Gensim](https://radimrehurek.com/gensim/).
 
