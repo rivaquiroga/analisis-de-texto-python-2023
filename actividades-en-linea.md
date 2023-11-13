@@ -41,3 +41,7 @@ Hay dos aproximaciones para resolver el problema:
 ## Ejercicio 4: una discusión inicial acerca del preprocesamiento de textos
 
 📄 [Código escrito en clases](https://www.dropbox.com/scl/fi/55psh943pm570db69iu4f/04_preprocesamiento.py?rlkey=l5zu9g83fln4e79vjinscxgj8&dl=0)
+
+🔡 [una lista de stopwords](https://raw.githubusercontent.com/7PartidasDigital/AnaText/master/datos/diccionarios/vacias.txt)
+
+🗣️ [un texto de ejemplo](https://www.dropbox.com/scl/fi/1qxof69pzi2pkj5vez030/cuenta-publica-2023.txt?rlkey=9wxuka5pl8lbhqpzw3ksd115i&dl=0)
