@@ -23,17 +23,17 @@ Hay dos aproximaciones para resolver el problema:
 
 :sparkles: [Solución]() (¡pronto!)
 
-# Ejercicio 2: extracción de textos de archivos en formato PDF
+## Ejercicio 2: extracción de textos de archivos en formato PDF
 
 📄 [Código escrito en clases](https://www.dropbox.com/scl/fi/w4upvdr76ajdmhofgkoof/02_extraccion-pdfs.py?rlkey=mddhnh82g0of73tvt3ok78l58&dl=0)
 ✍️ [PDF nativo](https://www.dropbox.com/scl/fi/kiwtke3zbkel1etcee51h/historia_python.pdf?rlkey=16oiuxjx7eliyn9165u1by9sj&dl=0)
 📖 [PDF escaneado](https://www.dropbox.com/scl/fi/yy9894lex6zf6sbyyj2yv/amanda_labarca.pdf?rlkey=03xplf67hh9gh5ffjfizs3h7m&dl=0)
 
 
-# Ejercicio 3: "speech to text"
+## Ejercicio 3: "speech to text"
 
 📄 [Código escrito en clases](https://www.dropbox.com/scl/fo/rush0t0bgidmra26yaz5y/h?rlkey=z84wc1v3kgozk9uvkv7iavr42&dl=0)
 🎤 [Audio de prueba](https://www.dropbox.com/scl/fi/7so2upmvlyt6vp0xurhp5/audio-de-prueba.m4a?rlkey=3eznie2kjr7tf0xncp6ty900n&dl=0)
 
-# Ejercicio 4: una discusión inicial acerca del preprocesamiento de textos
+## Ejercicio 4: una discusión inicial acerca del preprocesamiento de textos
 
