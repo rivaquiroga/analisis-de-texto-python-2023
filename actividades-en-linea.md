@@ -34,7 +34,7 @@ Hay dos aproximaciones para resolver el problema:
 
 ## Ejercicio 3: "speech to text"
 
-📄 [Código escrito en clases](https://www.dropbox.com/scl/fo/rush0t0bgidmra26yaz5y/h?rlkey=z84wc1v3kgozk9uvkv7iavr42&dl=0)
+📄 [Código escrito en clases](https://www.dropbox.com/scl/fi/hdgvy18pq1h3go5kmpugp/03_speech-to-text.py?rlkey=5tq97uejiar8suqo1qx9or4l9&dl=0)
 
 🎤 [Audio de prueba](https://www.dropbox.com/scl/fi/7so2upmvlyt6vp0xurhp5/audio-de-prueba.m4a?rlkey=3eznie2kjr7tf0xncp6ty900n&dl=0)
 
