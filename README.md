@@ -94,6 +94,8 @@ Durante las tres sesiones del módulo realizaremos una serie de actividades para
 - [nltk](https://www.nltk.org/book/)
 - [spacy](https://spacy.io/)
 - [scikit-learn](https://scikit-learn.org/stable/index.html)
+- [pdf2image](https://pdf2image.readthedocs.io/en/latest/index.html)
+  
 ### Sobre expresiones regulares
 
 - [regex101](https://regex101.com/): un sitio web para probar nuestras expresiones regulares
@@ -103,7 +105,11 @@ Durante las tres sesiones del módulo realizaremos una serie de actividades para
 
 Si trabajas en tu computador, puedes revisar la forma de instalación que corresponda a tu sistema operativo [en la documentación de tesseract](https://tesseract-ocr.github.io/tessdoc/Installation.html). 
 
-**Personas que usan Windows**: pueden revisar [estas indicaciones en español para instalar tanto tesseract como Poppler](https://ucd-dnp.github.io/ConTexto/versiones/master/instalacion/instalacion_popple_teseract_windows.html), una herramienta para renderear PDF que es necesario tener instalada también. Ojo que Poppler requiere tener permisos de administración del dispositivo para su instalación, por lo que si estás trabajando en el computador de tu institución puede que no sea posible instalarlo directamente. 
+**Personas que usan Windows**: pueden revisar [estas indicaciones en español para instalar tesseract](https://ucd-dnp.github.io/ConTexto/versiones/master/instalacion/instalacion_popple_teseract_windows.html). 
+
+### Instalar Poppler
+Las librerías para trabajar con archivos PDF requieren tener instalada una herramienta llamada Poppler. Si al tratar de usar pdf2image o tesseract te aparece un error relativo a Poppler, significa que tienes que instalarlo. Puedes encontrar indicaciones sonre cómo hacerlo [en la documentación de pdf2image](https://pdf2image.readthedocs.io/en/latest/installation.html#installing-poppler). 
+Ojo que Poppler requiere tener permisos de administración del dispositivo para su instalación, por lo que si estás trabajando en el computador de tu institución puede que no sea posible instalarlo directamente. 
 
 ### Sobre Topic Modelling
 
